@@ -1,0 +1,16 @@
+{
+  "name": "interview",
+  "version": "1.0.0",
+  "description": "interview",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "mocha ./test"
+  },
+  "author": "Mikhail Key",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0"
+  }
+}

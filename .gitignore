@@ -1,0 +1,6 @@
+# IDE folder
+.idea
+# Folder with solutions
+solutions
+
+node_modules
